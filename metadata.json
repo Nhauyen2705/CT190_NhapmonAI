@@ -1,0 +1,6 @@
+{
+  "name": "Medical AI Ultrasound System",
+  "description": "Hệ thống Trí tuệ Nhân tạo hỗ trợ chẩn đoán và phân tích hình ảnh siêu âm y khoa dựa trên tiền xử lý ảnh kỹ thuật số và trích xuất đặc trưng qua mô hình RSU.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
